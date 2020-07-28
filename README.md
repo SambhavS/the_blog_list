@@ -22,3 +22,4 @@ A curated list of blogs gathered from around the internet. My goal is to get to 
 * [Andrej Karpathy](http://karpathy.github.io/)
 * [Li Haoyi](https://www.lihaoyi.com/)
 * [Jake Zimmerman](https://jez.io/#writing)
+* [Advait Arun](https://fruminous.wordpress.com/)
