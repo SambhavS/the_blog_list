@@ -40,6 +40,7 @@ A curated list of blogs gathered from around the internet.
 * [Rohan Varma](https://rohanvarma.me/)
 * [Selynna Sun](https://medium.com/@selynna)
 * [Raymond Feng](https://raymondhfeng.github.io/)
+* [Kat Huang](https://www.katmh.com/writing/)
 
 My goal is to get to 200 blogs. And then some. Anything less is failure.
 
