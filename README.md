@@ -1,6 +1,5 @@
 # the_blog_list
-A curated list of blogs gathered from around the internet. My goal is to get to 200 blogs. And then some. Anything less is failure.
-If you like this list, you can contribute to it by emailing me your favorite blogs at sambhav@berkeley.edu !
+A curated list of blogs gathered from around the internet.
 
 * [Paul Graham](http://paulgraham.com/)
 * [Dan Wang](https://danwang.co/)
@@ -41,3 +40,8 @@ If you like this list, you can contribute to it by emailing me your favorite blo
 * [Rohan Varma](https://rohanvarma.me/)
 * [Selynna Sun](https://medium.com/@selynna)
 * [Raymond Feng](https://raymondhfeng.github.io/)
+
+My goal is to get to 200 blogs. And then some. Anything less is failure.
+
+
+If you like this list, you can contribute to it by emailing me your favorite blogs at sambhav@berkeley.edu !
