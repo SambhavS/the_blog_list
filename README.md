@@ -1,5 +1,6 @@
 # the_blog_list
 A curated list of blogs gathered from around the internet. My goal is to get to 200 blogs. And then some. Anything less is failure.
+If you like this list, you can contribute to it by emailing me your favorite blogs at sambhav@berkeley.edu !
 
 * [Paul Graham](http://paulgraham.com/)
 * [Dan Wang](https://danwang.co/)
@@ -23,3 +24,7 @@ A curated list of blogs gathered from around the internet. My goal is to get to 
 * [Li Haoyi](https://www.lihaoyi.com/)
 * [Jake Zimmerman](https://jez.io/#writing)
 * [Advait Arun](https://fruminous.wordpress.com/)
+* [Julia Evans](https://jvns.ca/)
+* [hardmath123](https://hardmath123.github.io/)
+* [Anish Athalye](https://www.anishathalye.com/)
+* [Kevin Lacker](https://lacker.io/)
