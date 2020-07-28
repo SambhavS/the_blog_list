@@ -1,3 +1,24 @@
 # the_blog_list
-A curated list of blogs for curious people
+A curated list of blogs gathered from around the internet. My goal is to get to 200 blogs. And then some. Anything less is failure.
+
 * [Paul Graham](http://paulgraham.com/)
+* [Dan Wang](https://danwang.co/)
+* [Ben Kuhn](https://www.benkuhn.net/)
+* [Slate Star Codex](https://slatestarcodex.com/)
+* [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
+* [Melting Asphalt](https://meltingasphalt.com/)
+* [Sam Altman](https://blog.samaltman.com/)
+* [Patrick McKenzie](https://www.kalzumeus.com/)
+* [Alex Danco](https://alexdanco.com/)
+* [Patrick Collison](https://patrickcollison.com/blog)
+* [Anton Cao](https://antoncao.me/blog)
+* [Gwern](https://www.gwern.net/index)
+* [Fred Wilson](https://avc.com/)
+* [Rohan Joshi](https://www.ocf.berkeley.edu/~rohanjoshi/)
+* [Marc Adreesen](https://pmarchive.com/)
+* [Farnam Street](https://fs.blog/blog/)
+* [Roots of Progress](https://rootsofprogress.org/)
+* [Akshay Ravikumar](https://akshayr.me/blog/)
+* [Andrej Karpathy](http://karpathy.github.io/)
+* [Li Haoyi](https://www.lihaoyi.com/)
+* [Jake Zimmerman](https://jez.io/#writing)
