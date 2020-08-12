@@ -45,6 +45,7 @@ A curated list of blogs gathered from around the internet.
 * [Bill Gurley](https://abovethecrowd.com/) (VC)
 * [Stratechery](https://stratechery.com/) (Tech)
 * [Benedict Evans](https://www.ben-evans.com/essays) (Tech)
+* [Aaron Harris](https://www.aaronkharris.com/) (VC)
 
 My goal is to eventually get to 200 blogs. And then some. Anything less is failure.
 
